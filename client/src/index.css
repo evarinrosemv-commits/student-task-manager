@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans;
+  }
+}
+
+/* Custom smooth transitions and clean focus states */
+button, input, select, textarea {
+  @apply transition-colors duration-150;
+}
+
+/* Badge utility styles */
+.badge-high {
+  @apply bg-rose-50 text-rose-700 border border-rose-200;
+}
+
+.badge-medium {
+  @apply bg-amber-50 text-amber-700 border border-amber-200;
+}
+
+.badge-low {
+  @apply bg-emerald-50 text-emerald-700 border border-emerald-200;
+}
+
+.badge-overdue {
+  @apply bg-red-100 text-red-800 border border-red-300 font-semibold;
+}
+
+.badge-completed {
+  @apply bg-emerald-100 text-emerald-800 border border-emerald-300;
+}
+
+.badge-pending {
+  @apply bg-indigo-50 text-indigo-700 border border-indigo-200;
+}
