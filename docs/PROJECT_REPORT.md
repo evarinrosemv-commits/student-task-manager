@@ -6,11 +6,11 @@
 ---
 
 ### Candidate Details
-- **Student Name:** `[STUDENT FULL NAME - FILL IN]`
-- **Roll Number / Student ID:** `[STUDENT ID / ROLL NO - FILL IN]`
+- **Student Name:** EVARIN MV
+- **Roll Number / Student ID:** 46, 225906 , SHR25CS110
 - **Academic Department:** Department of Computer Science and Engineering
-- **Institution:** `[COLLEGE / UNIVERSITY NAME - FILL IN]`
-- **Project Supervisor:** `[SUPERVISOR / PROFESSOR NAME - FILL IN]`
+- **Institution:** SAHRDAYA COLLEGE OF ENGINEERING AND TECHNOLOGY
+- **Project Supervisor:** LIVYA GEORGE
 - **Academic Session:** 2025 – 2026
 
 ---
